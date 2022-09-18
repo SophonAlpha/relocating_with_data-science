@@ -130,4 +130,5 @@ dmypy.json
 
 # my customization
 secure/
+parquet/
 
